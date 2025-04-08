@@ -61,7 +61,7 @@ Research papers were grouped into category levels to describe the climate change
 
 ![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_1.png?raw=true)
 
-![alt text]([https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_2.png?raw=true)
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_2.png?raw=true)
 
 Trends in global temperature and precipitation, publications and the geographical distribution of experiments were included. Below = (a) Global warming is indicated by the rapid increase in the Earth's global mean surface temperature. (b) Global mean precipitation anomalies over the past century (obtained from National Oceanic & Atmospheric Administration - NOAA). (c) Publications identified geographically and over time (n = 143). The cumulative number of papers investigating climate-driventemperature (red) and salinity (blue). Inset: geographical distribution of experiments included in the publications.
 
