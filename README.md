@@ -6,15 +6,15 @@ Contemporary climate change and biological invasions are two main drivers of bio
 
 **Location:** 
 
-Global
+Global :globe_with_meridians: 🌏
 
 **Time-period:** 
 
-2002–2019
+2002–2019 🕐 🕜 🕙 🕥 
 
 **Major taxa studied:** 
 
-Marine benthic macrophytes and invertebrates
+Marine benthic macrophytes and invertebrates 🐠 🐟 🐳 🐋 🐬  🍁 🍃 🍂 🌿
 
 **Methods**
 
@@ -41,13 +41,13 @@ I constructed global mixed-effect meta-regression models for each subgroup, cons
 
 **Results**
 
-![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig%201.pdf?raw=true)
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig%201_1.png?raw=true)
 
 I found that non-native species tended to respond positively to elevated temperature, whereas the performance of native species declined. Similarly, decreased salinity negatively affected the biological processes of native species, but non-natives showed neutral or negative overall responses to freshening.
 
-![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig%202.pdf?raw=true)
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig%202_1.png?raw=true)
 
-![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig%203%20Spp_mag_dur.pdf?raw=true)
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/FIG4_1.png?raw=true)
 
 I found evidence that non-native species outperform natives under a wide variety of warming and freshening conditions. The growth and reproduction of non-natives are enhanced by warmer temperatures, and thus ocean warming is expected to facilitate future spread and success of non-native species. Increased freshening along future coastal areas, however, will likely have a negative impact in both native and non-native species and thus is expected to be a driver of significant change in coastal marine ecosystems. Our comprehensive analysis highlighted the need to expand our understanding of climate change effects beyond warming and specifically, studies focusing on salinity changes.
 
