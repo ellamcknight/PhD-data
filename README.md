@@ -61,15 +61,15 @@ Research papers were grouped into category levels to describe the climate change
 
 ![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_1.png?raw=true)
 
-![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_1.png?raw=true)
-
-![alt text](
+![alt text]([https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_2.png?raw=true)
 
 Trends in global temperature and precipitation, publications and the geographical distribution of experiments were included. Below = (a) Global warming is indicated by the rapid increase in the Earth's global mean surface temperature. (b) Global mean precipitation anomalies over the past century (obtained from National Oceanic & Atmospheric Administration - NOAA). (c) Publications identified geographically and over time (n = 143). The cumulative number of papers investigating climate-driventemperature (red) and salinity (blue). Inset: geographical distribution of experiments included in the publications.
 
 ![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig.%201%20mapYrs_1.png?raw=true)
 
+below shows: Taxonomic groups, the magnitude of experimental treatments and duration. Recorded across all 691 individual experiments (a) taxonomic groups, (b) magnitude of treatment exposure applied across the experimental treatments, (c) duration of experiments. Colours represent the difference between the two stressors, temperature (red) and salinity (blue).
 
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig%203%20Spp_mag_dur_1.png?raw=true)
 
 
 
