@@ -51,9 +51,15 @@ I found that non-native species tended to respond positively to elevated tempera
 
 ![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/FIG4_1.png?raw=true)
 
+Below shows: Phyla and subphyla of epibenthic species identified in the studies (a) displays the distribution of taxa across native and non-native grouping and species type, (b) density plot showing the distribution of studies across absolute latitude and separated according to native and non-native species.
+
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/5_1.png?raw=true)
+
 I found evidence that non-native species outperform natives under a wide variety of warming and freshening conditions. The growth and reproduction of non-natives are enhanced by warmer temperatures, and thus ocean warming is expected to facilitate future spread and success of non-native species. Increased freshening along future coastal areas, however, will likely have a negative impact in both native and non-native species and thus is expected to be a driver of significant change in coastal marine ecosystems. Our comprehensive analysis highlighted the need to expand our understanding of climate change effects beyond warming and specifically, studies focusing on salinity changes.
 
+
 ## Review
+
 
 # Literature analysis
 
