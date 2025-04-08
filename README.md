@@ -1,6 +1,8 @@
 ### PhD-data - review and meta-analysis
 
-## Meta-analysis [Link](https://onlinelibrary.wiley.com/doi/10.1111/geb.13318)
+## Meta-analysis 
+
+[publication](https://onlinelibrary.wiley.com/doi/10.1111/geb.13318)
 
 Contemporary climate change and biological invasions are two main drivers of biodiversity redistribution. Interactive effects between these drivers have been reported in a variety of studies, yet results are conflicting. Some studies find that contemporary climate change facilitates the spread and success of non-native species, especially those with broad physiological tolerances. Other studies conclude that non-natives are vulnerable to current and future changes in climatic conditions. Given that most studies have focused on terrestrial species, here I contribute to this debate by analysing responses of marine native and non-native fauna and flora to key climate-related stressors, namely increased temperature (warming) and decreased salinity (freshening).
 
@@ -51,8 +53,21 @@ I found that non-native species tended to respond positively to elevated tempera
 
 I found evidence that non-native species outperform natives under a wide variety of warming and freshening conditions. The growth and reproduction of non-natives are enhanced by warmer temperatures, and thus ocean warming is expected to facilitate future spread and success of non-native species. Increased freshening along future coastal areas, however, will likely have a negative impact in both native and non-native species and thus is expected to be a driver of significant change in coastal marine ecosystems. Our comprehensive analysis highlighted the need to expand our understanding of climate change effects beyond warming and specifically, studies focusing on salinity changes.
 
+## Review
 
+# Literature analysis
 
+Research papers were grouped into category levels to describe the climate change literature based on their key focus and concepts (the most dominant ideas). Not all papers were divided into primary concepts, as some explored a range of specialities. For example, some papers focused on organismal development, such as growth, and physiological elements like tissue composition. Therefore, papers were counted more than once if concepts overlapped. The process of identifying the most dominant concept of the paper (secondary to the key concept) was repeated to create sub-groupings. The divisions of fundamental concepts allow for visualising research directions and knowledge gaps. 
+
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_1.png?raw=true)
+
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/litsearch_1.png?raw=true)
+
+![alt text](
+
+Trends in global temperature and precipitation, publications and the geographical distribution of experiments were included. Below = (a) Global warming is indicated by the rapid increase in the Earth's global mean surface temperature. (b) Global mean precipitation anomalies over the past century (obtained from National Oceanic & Atmospheric Administration - NOAA). (c) Publications identified geographically and over time (n = 143). The cumulative number of papers investigating climate-driventemperature (red) and salinity (blue). Inset: geographical distribution of experiments included in the publications.
+
+![alt text](https://github.com/ellamcknight/PhD-data/blob/main/Images/Fig.%201%20mapYrs_1.png?raw=true)
 
 
 
